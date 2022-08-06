@@ -12,7 +12,7 @@
 // console.log(summation);
 
 function noParameter() {
-    return 10;
+  return 10;
 }
 
 var hasReturn = noParameter();
